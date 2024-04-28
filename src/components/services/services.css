@@ -61,3 +61,32 @@
     height: 13px;
     top: 3px;
 }
+
+
+/*=============== BREAKPOINTS ===============*/
+/* For large devices */
+@media screen and (max-width: 992px) {
+
+
+
+}
+
+/* For medium devices */
+@media screen and (max-width: 768px) {
+   .services__description {
+    min-height: 130px;
+}
+
+.services__subtitle{
+    margin-bottom: 40px;
+}
+
+
+}
+
+
+
+/* For small devices */
+@media screen and (max-width: 350px) {
+
+}

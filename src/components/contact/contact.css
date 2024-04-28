@@ -85,3 +85,33 @@
   justify-content: flex-end;
   column-gap: 30px;
 }
+
+
+
+
+/*=============== BREAKPOINTS ===============*/
+/* For large devices */
+@media screen and (max-width: 992px) {
+
+
+
+}
+
+/* For medium devices */
+@media screen and (max-width: 768px) {
+   .contact__container{
+    grid-template-columns:auto;
+   }
+
+   .contact__form-group {
+    grid-template-columns: repeat(1, 1fr);
+    column-gap: 15px;
+}
+}
+
+
+
+/* For small devices */
+@media screen and (max-width: 350px) {
+
+}

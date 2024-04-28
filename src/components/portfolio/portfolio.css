@@ -83,3 +83,37 @@
     font-size: var(--smaller-font-size);
 }
 
+
+
+/*=============== BREAKPOINTS ===============*/
+/* For large devices */
+@media screen and (max-width: 992px) {
+
+
+
+}
+
+/* For medium devices */
+@media screen and (max-width: 768px) {
+   .portfolio__container {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+}
+
+.portfolio__list {
+    display: grid;
+    margin-bottom:2rem
+}
+
+.portfolio__list-item::before{
+    bottom: 0rem;
+    left: 4.5rem;
+}
+}
+
+
+
+/* For small devices */
+@media screen and (max-width: 350px) {
+
+}

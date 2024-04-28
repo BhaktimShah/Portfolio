@@ -84,3 +84,34 @@
 .resume__description{
     margin-block: 20px 30px;
 }
+
+
+/*=============== BREAKPOINTS ===============*/
+/* For large devices */
+@media screen and (max-width: 992px) {
+
+
+.resume__container {
+    grid-template-columns: repeat(1, 1fr);
+}
+
+.resume__icon{
+    right: -19px;
+}
+
+}
+
+/* For medium devices */
+@media screen and (max-width: 768px) {
+   /* .swiper{
+        margin-left: 50px;
+    }*/
+
+}
+
+
+
+/* For small devices */
+@media screen and (max-width: 350px) {
+
+}

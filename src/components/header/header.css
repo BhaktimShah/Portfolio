@@ -65,7 +65,7 @@
   .nav {
     display: inline-flex;
     height: var(--header-height);
-     column-gap: 19rem;
+     column-gap: 13rem;
   }
 
   .nav__menu{

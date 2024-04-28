@@ -342,8 +342,10 @@
     }
 
     .home__content{
-        grid-template-columns: 160px repeat(2, 1fr);
+        grid-template-columns: 14px repeat(1, 1fr);
         padding-top: 0.5rem;
+
+        text-align: justify;
     }
 
     .home__skills {
@@ -358,7 +360,7 @@
 }
 
 .home__skills ul {
-    display: flex;
+    display: inline-grid;
     flex-wrap: nowrap;
     gap: 0.9rem;
     list-style: none;
@@ -373,6 +375,7 @@
 
 .nav__logo, .nav__toggle{
     max-width: 42%;
+    margin-right: 1.5rem
 }
 
     .home__img{
