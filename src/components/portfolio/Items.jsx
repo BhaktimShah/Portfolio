@@ -8,7 +8,6 @@ const Items = ({ projectItems }) => {
 
   const close = () => setModalOpen(false);
   const open = (img) => {
-    console.log(img);
     setModalOpen(true);
     setImgPath(img);
   };

@@ -18,7 +18,7 @@ const dropIn = {
   },
 };
 
-const Modal = ({ handleClose, handleImg, imgPath }) => {
+const Modal = ({ handleClose, imgPath }) => {
   console.log("Oath ", imgPath);
   return (
     <Backdrop onClick={handleClose}>
@@ -40,7 +40,7 @@ const Modal = ({ handleClose, handleImg, imgPath }) => {
           }
 
         />
-        
+
         <p>
           <img src={imgPath} alt="" />
         </p>
