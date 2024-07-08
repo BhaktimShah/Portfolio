@@ -98,3 +98,14 @@
         font-size: var(----small-font-size);
     }
 }
+
+
+
+
+    /*For Tablets*/
+@media screen and (min-width: 712px) and (max-width:1200px) {
+  .skills__container {
+        grid-template-columns: auto;
+        row-gap: 2rem;
+    }
+}

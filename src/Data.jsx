@@ -81,7 +81,7 @@ export const services = [
     name: ' Branding ',
     title: ' Create your own identity ',
     description:
-      ' Creation of unique Logo designs.',
+      ' Stand out from the crowd with a logo that fits your brand personality',
   },
   {
     id: 4,
@@ -102,50 +102,50 @@ export const services = [
 export const skills = [
   {
     id: 1,
-    name: 'HTML',
+    name: "HTML",
     percentage: 85,
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      "10+ years of experience in creating the webpage structures using the latest HTML standards / rules/ guidelines.",
   },
 
   {
     id: 2,
-    name: 'JavaScript',
+    name: "JavaScript",
     percentage: 70,
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      "JavaScript experience with over 7 years in building and maintaining responsive websites in the tech industry.",
   },
 
   {
     id: 3,
-    name: 'CSS',
+    name: "CSS",
     percentage: 80,
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      "With strong understanding of Responsive Mobile design with Adaptive CSS principles have built responsive designs. ",
   },
 
   {
     id: 4,
-    name: 'Bootstrap',
+    name: "Bootstrap",
     percentage: 70,
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      " Experience working with the Bootstrap framework and its various components to create visually appealing and user-friendly websites.",
   },
 
   {
     id: 5,
-    name: 'React',
+    name: "React",
     percentage: 30,
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      "Develop reusable components. Optimize components for maximum performance across a vast array of web-capable devices and browsers.",
   },
 
   {
     id: 6,
-    name: 'Adobe Photoshop',
+    name: "Adobe Photoshop",
     percentage: 80,
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      "Used Photoshop to design UI for the web application. Used Photoshop and Illustrator to develop product mockups and prototype designs.",
   },
 ];
 
@@ -154,15 +154,15 @@ export const projects = [
     id: 1,
     img: Project1,
     category: "Branding",
-    title: "Zorro",
+    title: "Eat-O-Keto",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+      "Designed logo for a locally owned multi-cuisine nutrition based takeaway and home delivery café.",
   },
   {
     id: 2,
     img: Project2,
     category: "Banner Design",
-    title: "Gooir",
+    title: "Indian Blush",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
   },

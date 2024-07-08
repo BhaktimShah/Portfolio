@@ -131,3 +131,16 @@
     column-gap: 0;
   }
 }
+
+/*For Tablets*/
+@media screen and (min-width: 712px) and (max-width: 1200px) {
+      .nav {
+        display: inline-flex;
+        height: var(--header-height);
+        column-gap: 30rem;
+    }
+
+    .nav__menu{
+      width: 100%;
+    }
+}

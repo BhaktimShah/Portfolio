@@ -53,3 +53,22 @@
     font-size: 1rem;
   }
 }
+
+/*For Tablets*/
+@media screen and (min-width: 712px) and (max-width: 1200px) {
+
+    .footer__container.grid{
+        display: flex;
+    }
+    .footer {
+
+    padding-block: 20px;
+}
+
+.footer__copyright{
+    font-size: var(--mb-0-50);
+}
+
+
+}
+
