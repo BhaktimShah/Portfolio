@@ -109,3 +109,17 @@
         row-gap: 2rem;
     }
 }
+
+
+@media screen and (min-width: 800px) and (max-width: 1334px) {
+    .skills__bar {
+
+    margin-left: 8px;
+}
+.skills__bar, .skills__percentage {
+ 
+    width: 95%;
+
+}
+}
+
