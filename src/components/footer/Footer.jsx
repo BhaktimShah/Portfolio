@@ -15,14 +15,7 @@ const Footer = () => {
             <i className="uil uil-instagram"></i>
           </a>
 
-          <a
-            href="https://dribbble.com/"
-            className="footer__social-link"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <i className="uil uil-dribbble"></i>
-          </a>
+         
 
           <a
             href="https://github.com/"
