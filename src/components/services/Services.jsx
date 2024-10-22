@@ -1,8 +1,9 @@
 import React from "react";
 import { services } from '../../Data';
-import {FaArrowRight} from 'react-icons/fa';
+//import {FaArrowRight} from 'react-icons/fa';
 
 import { Swiper, SwiperSlide } from "swiper/react";
+//import webDesign from "../../assets/webDesign.jpg";
 
 // Import Swiper styles
 import "swiper/css";
@@ -46,13 +47,17 @@ const Services = () => {
             <SwiperSlide className="services__item card card-one" key={index}>
               <span className="services__subtitle text-cs">{name}</span>
 
+          {/*     <span>
+                <img src={webDesign} />
+              </span> */}
+
               <h3 className="services__title">{title}</h3>
               <p className="services__description">{description}</p>
 
-              <a href="" className="link">
+             {/*  <a href="" className="link">
                 See Pricing
                 <FaArrowRight className="link__icon"></FaArrowRight>
-              </a>
+              </a> */}
             </SwiperSlide>
           );
         })}
