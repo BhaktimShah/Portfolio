@@ -87,7 +87,14 @@
 }
 
 
-
+.contact_reply{
+  display: none;
+   font-size: var(--big-font-size);
+    font-weight: var(--font-semi-bold);
+    text-align: center;
+    color: rgb(2, 110, 199);
+    padding-bottom: 30px;
+}
 
 /*=============== BREAKPOINTS ===============*/
 /* For large devices */
@@ -110,7 +117,7 @@
 }
 
 @media screen and (min-width: 800px) and (max-width: 1334px) {
- 
+
    .contact__container{
     grid-template-columns:1fr 2fr;;
    }

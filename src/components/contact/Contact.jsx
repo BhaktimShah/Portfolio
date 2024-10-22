@@ -16,12 +16,18 @@ const Contact = () => {
         "CLy4alZlj8X7Gdrmx"
       );
         e.target.reset();
+         document.querySelector("#reply").style.display = "block";
+        setTimeout(() => {
+          document.querySelector("#reply").style.display = "none";
+        }, "5000");
+
     };
 
   return (
     <section className="contact section" id="contact">
       <h2 className="section__title">Get in touch</h2>
       <span className="section__subtitle">Let's Talk About Ideas</span>
+      <span id="reply" className="contact_reply">WE SHALL REVERT SOON!</span>
 
       <div className="contact__container container grid">
         <div className="contact__content">
@@ -100,10 +106,7 @@ const Contact = () => {
             ></textarea>
           </div>
 
-          <button className="btn text-cs">
-            Send Message
-
-          </button>
+          <button className="btn text-cs">Send Message</button>
         </form>
       </div>
     </section>

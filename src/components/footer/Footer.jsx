@@ -15,7 +15,7 @@ const Footer = () => {
             <i className="uil uil-instagram"></i>
           </a>
 
-         
+
 
           <a
             href="https://github.com/"
@@ -28,7 +28,7 @@ const Footer = () => {
         </div>
 
         <p className="footer__copyright text-cs">
-          &#169; 2024 <span>ThinkCreative. All rigths reserved</span>
+          &#169; 2024 <span>ThinkCreative. All rights reserved</span>
         </p>
         <p className="footer__copyright text-cs">
           Developed by <span>Bhakti Shah</span>
