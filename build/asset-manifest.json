@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.976fa44e.css",
-    "main.js": "/static/js/main.c5dbf527.js",
+    "main.js": "/static/js/main.aaf04194.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
     "static/media/project4.jpeg": "/static/media/project4.b5d5d0e695298a8355a8.jpeg",
     "static/media/project15.jpg": "/static/media/project15.a5af7251f8576d6096a8.jpg",
@@ -20,10 +20,10 @@
     "static/media/project17.jpg": "/static/media/project17.155b696ce2ff9ec5a1bc.jpg",
     "static/media/project1.jpeg": "/static/media/project1.9991b9384aae720abb0c.jpeg",
     "static/media/profile.jpg": "/static/media/profile.038321611921e2a9a8de.jpg",
-    "static/media/BhaktiShahResume.pdf": "/static/media/BhaktiShahResume.7ab07ea8207bcb7734da.pdf",
     "static/media/project9.jpg": "/static/media/project9.86dc65af210a04563f35.jpg",
     "static/media/project19.jpg": "/static/media/project19.765a77ec92c9182f0f7a.jpg",
     "static/media/project18.jpg": "/static/media/project18.34b8e4f6d6d6566fd7e0.jpg",
+    "static/media/BhaktiShahResume.pdf": "/static/media/BhaktiShahResume.0feac2a6dd1c3c79ca4c.pdf",
     "static/media/project20.jpg": "/static/media/project20.bd0e38f47273dbeaf0f4.jpg",
     "static/media/testimonial4.jpg": "/static/media/testimonial4.2296f37ed6eca7f3fe31.jpg",
     "static/media/testimonial3.jpg": "/static/media/testimonial3.02fce6a4237d2640fae2.jpg",
@@ -34,11 +34,11 @@
     "static/media/bg_home_2.svg": "/static/media/bg_home_2.07b11a7d1871921f5674.svg",
     "index.html": "/index.html",
     "main.976fa44e.css.map": "/static/css/main.976fa44e.css.map",
-    "main.c5dbf527.js.map": "/static/js/main.c5dbf527.js.map",
+    "main.aaf04194.js.map": "/static/js/main.aaf04194.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.976fa44e.css",
-    "static/js/main.c5dbf527.js"
+    "static/js/main.aaf04194.js"
   ]
 }
