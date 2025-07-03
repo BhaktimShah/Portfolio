@@ -1,5 +1,5 @@
 .portfolio {
-  background-image: var(--first-gradient);
+  /*background: var(--first-gradient);*/
 }
 
 .portfolio__list {

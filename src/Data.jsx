@@ -1,7 +1,7 @@
-import Project1 from "./assets/project1.jpeg";
+import Project1 from "./assets/project1.jpg";
 import Project2 from "./assets/project2.jpg";
-import Project3 from "./assets/project3.jpeg";
-import Project4 from "./assets/project4.jpeg";
+import Project3 from "./assets/project3.jpg";
+import Project4 from "./assets/project4.jpg";
 import Project5 from "./assets/project5.jpg";
 import Project6 from "./assets/project6.jpg";
 import Project7 from "./assets/project7.jpg";
@@ -358,7 +358,7 @@ export const cv = [
   },
 ];
 
-export const testimonials = [
+/* export const testimonials = [
   {
     id: 1,
     img: Testimonial1,
@@ -400,3 +400,4 @@ export const testimonials = [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   },
 ];
+ */
